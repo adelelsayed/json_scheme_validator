@@ -1,0 +1,11 @@
+name: json_scheme_validator
+description: A utility class to validate json records against a scheme.
+repository: https://github.com/adelelsayed/json_scheme_validator
+version: 1.0.0
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
